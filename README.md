@@ -1,1 +1,2 @@
-# hammerspoon_double_cmd_before_quit
+# Hammerspoon Config
+## Press Cmd+Q twice to quit from any app
