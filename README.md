@@ -1,0 +1,1 @@
+# hammerspoon_double_cmd_before_quit
